@@ -1,3 +1,3 @@
 module github.com/weirdtangent/mymath
 
-go 1.13
+go 1.24
